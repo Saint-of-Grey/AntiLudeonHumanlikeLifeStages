@@ -1,3 +1,5 @@
+Panic Forked after the author indicated they might delete their repositories. Rolled back to version licensed on public domain.
+
 # RimWorldHumanlikeLifeStages
 
 Adds a childhood and puberty system to rimworld that I hope you enjoy.
